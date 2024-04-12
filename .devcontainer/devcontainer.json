@@ -1,0 +1,18 @@
+{
+    "build": { "dockerfile": "Dockerfile" },
+    "features": {
+    },
+    "customizations": {
+      "vscode": {
+      "extensions": [
+        "scala-lang.scala",
+        "scalameta.metals",
+        "wavetrace.wavetrace",
+        "itryapitsin.Sbt",
+        "shd101wyy.markdown-preview-enhanced",
+        "GitHub.vscode-github-actions",
+        "ms-azuretools.vscode-docker"
+    ]
+      }
+    }
+  }
